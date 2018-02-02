@@ -8,5 +8,6 @@
 The official price is too high to afford, so I read the source code of [Forvo.com](https://forvo.com) and wrote this free one.
 ## Development progress
 - [x] English pronunciation
+- [ ] Add a no commercial use license
 ## Feedback
 mail to [rvfu98@gmail.com](mailto:rvfu98@gmail.com) or [create an issue](https://github.com/rvfu/forvo-api-free/issues/new).
