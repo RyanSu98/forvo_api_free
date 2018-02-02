@@ -4,6 +4,7 @@ import requests
 import json
 import base64
 
+# this function return a json, the url prefix is *https://forvo.com/mp3/*
 def getEnglishPronunciation(word):
 	webPageUrl = "https://forvo.com/word/%s/#en" % word
 	webPageText = requests.get(webPageUrl).text
