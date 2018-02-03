@@ -14,5 +14,7 @@ def getEnglishPronunciation(word):
 	englishPageText = englishPageTextList[0]
 	pronunciations = re.findall("Play\(\d+,'(.*?)'", englishPageText)
 	for l in range(len(pronunciations)):
-		pronunciations[l] = base64.b64decode(pronunciations[l].decode())
+		pronunciations[l] = base64.b64decode(pronunciations[l]).decode()
 	return json.dumps(pronunciations)
+
+# print(getEnglishPronunciation("naive"))

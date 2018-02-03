@@ -9,5 +9,6 @@ The official price is too high to afford, so I read the source code of [Forvo.co
 ## Development progress
 - [x] English pronunciation
 - [ ] Add a no commercial use license
+- [ ] Because of the slow response of foreign servers, it is necessary to design the audio caching strategy
 ## Feedback
 mail to [rvfu98@gmail.com](mailto:rvfu98@gmail.com) or [create an issue](https://github.com/rvfu/forvo-api-free/issues/new).

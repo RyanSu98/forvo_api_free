@@ -9,5 +9,6 @@
 ## 开发进度
 - [x] 英语发音获取
 - [ ] 添加一个非商业使用的许可证
+- [ ] 由于国外服务器响应较慢，故需要设计缓存策略来提升体验
 ## 反馈建议
 发邮件至 [rvfu98@gmail.com](mailto:rvfu98@gmail.com) 或者 [创建一个 issue](https://github.com/rvfu/forvo-api-free/issues/new)。
