@@ -1,6 +1,6 @@
 # Forvo 免费接口
 [README](README.md) | [中文文档](README_zh.md)
-## 什么事 *Forvo*?
+## 什么是 *Forvo*?
 [Forvo_百度百科](https://baike.baidu.com/item/Forvo)
 ## 什么是 *Forvo api*?
 [Forvo Pronunciation API, let´s show the world how to pronounce!](https://api.forvo.com/)
